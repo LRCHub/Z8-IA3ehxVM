@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クラリムステラ",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-19T13:53:58.104743Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クラリムステラ",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_クラリムステラ_藍月なくる.txt"
+    }
+  ]
+}
